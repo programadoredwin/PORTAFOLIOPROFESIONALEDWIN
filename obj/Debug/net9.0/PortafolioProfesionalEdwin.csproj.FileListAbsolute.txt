@@ -96,3 +96,4 @@ C:\Users\USUARIO\OneDrive\Escritorio\PortafolioProfesionalEdwin\PortafolioProfes
 C:\Users\USUARIO\OneDrive\Escritorio\PortafolioProfesionalEdwin\PortafolioProfesionalEdwin\obj\Debug\net9.0\PortafolioProfesionalEdwin.genruntimeconfig.cache
 C:\Users\USUARIO\OneDrive\Escritorio\PortafolioProfesionalEdwin\PortafolioProfesionalEdwin\obj\Debug\net9.0\ref\PortafolioProfesionalEdwin.dll
 C:\Users\USUARIO\OneDrive\Escritorio\PortafolioProfesionalEdwin\PortafolioProfesionalEdwin\obj\Debug\net9.0\compressed\xt0fs9u98o-r99xadbjko.gz
+C:\Users\USUARIO\OneDrive\Escritorio\PortafolioProfesionalEdwin\PortafolioProfesionalEdwin\obj\Debug\net9.0\PortafolioProfesionalEdwin.sourcelink.json
