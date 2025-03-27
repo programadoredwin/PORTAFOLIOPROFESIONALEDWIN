@@ -1,0 +1,31 @@
+/* Animación para enlaces y botones */
+a, .btn {
+    transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+    a:hover, .btn:hover {
+        color: #007bff; /* Cambia el color al pasar el cursor */
+        background-color: #e9ecef; /* Color de fondo al hover */
+        text-decoration: none; /* Elimina el subrayado al hover */
+    }
+
+/* Efecto de aparición suave */
+.fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: fadeInAnimation 1s ease-out forwards;
+}
+
+@keyframes fadeInAnimation {
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Animación de escala para tarjetas o elementos al hover */
+.card:hover, .list-group-item:hover {
+    transform: scale(1.03);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
